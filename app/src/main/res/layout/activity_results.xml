@@ -17,6 +17,7 @@
         android:layout_marginTop="58dp"
         android:layout_marginEnd="10dp"
         android:hint="Result Name"
+        style="@style/TextAppearance.AppCompat.Large"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
